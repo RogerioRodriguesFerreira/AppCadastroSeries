@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\desafioDIO\\AppCadastroSeries\\AppCadastroSeries.csproj": {}
+  },
+  "projects": {
+    "C:\\desafioDIO\\AppCadastroSeries\\AppCadastroSeries.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\desafioDIO\\AppCadastroSeries\\AppCadastroSeries.csproj",
+        "projectName": "AppCadastroSeries",
+        "projectPath": "C:\\desafioDIO\\AppCadastroSeries\\AppCadastroSeries.csproj",
+        "packagesPath": "C:\\Users\\WIndows 10\\.nuget\\packages\\",
+        "outputPath": "C:\\desafioDIO\\AppCadastroSeries\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\WIndows 10\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
