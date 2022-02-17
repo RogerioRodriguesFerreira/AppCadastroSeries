@@ -2,7 +2,7 @@
 
 ## Criando um APP de cadastro em memória ##
 
-#Aplicação simples de cadastro de filmes em memória de sérieses.
+#Aplicação simples de cadastro de filmes e séries em memória.
 
 #Projeto desenvolvido no bootcamp da DIO Innovation.
 
